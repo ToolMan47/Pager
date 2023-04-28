@@ -1,4 +1,4 @@
-package com.toolman.pager.grpc.server;
+package com.toolman.pager.grpc.unary;
 
 import com.toolman.pager.service.HelloServiceImpl;
 import io.grpc.Server;
